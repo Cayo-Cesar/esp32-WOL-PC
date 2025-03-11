@@ -56,6 +56,9 @@ This project allows you to remotely power on a device using the **Wake-on-LAN (W
 4. **Test**:
    - Open the Blynk app and press the button to send the Magic Packet.
 
+![image](https://github.com/user-attachments/assets/b9167ea1-fd60-4235-9fe6-627d0bc60053)
+
+
 ---
 
 ## **Project Structure**
