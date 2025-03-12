@@ -14,7 +14,7 @@ This project allows you to remotely power on a device using the **Wake-on-LAN (W
 ## **Requirements**
 ### Hardware
 - ESP32 (any variant with Wi-Fi).
-- Wi-Fi connection.
+- Wi-Fi connection
 
 ### Software
 - Blynk library (`BlynkSimpleEsp32.h`).
